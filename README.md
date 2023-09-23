@@ -9,8 +9,8 @@ Nesta aula aprendi e desenvolvi as variáveis primitivas
 
 # 📋Pré-requisitos do sistema:
 
-Windowns 10
-Mac
+- Windowns 10
+- Mac
 
 ## 🛠️Tecnologias utilizadas:
 
