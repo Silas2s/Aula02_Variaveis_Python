@@ -1,6 +1,6 @@
 # Aula02_Variaveis_Python
 
-Nesta aula aprendi e desenvolvi as primeiras variáveis primitivas
+Nesta aula aprendi e desenvolvi as variáveis primitivas
 
 # 🔌Como fazer funcionar na sua máquina:
 
@@ -9,16 +9,12 @@ Nesta aula aprendi e desenvolvi as primeiras variáveis primitivas
 
 # 📋Pré-requisitos do sistema:
 
-> Exemplo
-> Python
+> Windowns 10
+> Mac
 
 ## 🛠️Tecnologias utilizadas:
 
-> Editor de código
-Linguagens
-Bibliotecas
-> 
-
+> Python
 ## Versões:
 
 > Python 3.10
